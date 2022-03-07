@@ -1,10 +1,11 @@
 
 
+### Hi Developers 👋 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-koushal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/koushal--01629954/)](https://www.linkedin.com/in/koushal-kandagatla/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://k-koushal.github.io/personal.webpage/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/18280020/koushal-kandagatla)
-
-### Hi Developers 👋 
 
 I'm a
 Full Stack Developer.
