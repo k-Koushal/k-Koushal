@@ -25,14 +25,8 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=k-Koushal&theme=react-dark&area=true)
   
-<h2>📈 My GitHub Stats </h2>
-<a href="https://github.com/k-Koushal">
-  <img height="auto" src="https://github-readme-stats.vercel.app/api?username=k-Koushal&show_icons=true&theme=radical" />
-  <img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=k-Koushal&show_icons=true&locale=en&layout=compact&theme=aura_dark" alt="=k-Koushal" />
-</a>
-  
-<br/>
- <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=k-Koushal.k-Koushal" /> </p>
+
+
 <!--
 **k-Koushal/Koushal-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
