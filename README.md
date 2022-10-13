@@ -5,9 +5,12 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://k-koushal.github.io/personal.webpage/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/18280020/koushal-kandagatla/)
 
-I'm a
-Full Stack Developer.
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I'm Koushal Kandagatla
+I have recently begun my coding journey. 
+specialised in Data Structures and Algorithms in Java.
+currently a full time freelancer, worked on more than 20 Responsive webpages using HTML, CSS, Bootstrap-5 ,& JavaScript.
+design is my forte. 
+looking forward to connecting with new enthusiastic talent in the domain.do drop a msg on linkedin to connect.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/k-Koushal/count.svg)
