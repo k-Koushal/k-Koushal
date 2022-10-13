@@ -6,11 +6,11 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/18280020/koushal-kandagatla/)
 
 I'm Koushal Kandagatla
-I have recently begun my coding journey. 
-specialised in Data Structures and Algorithms in Java.
-currently a full time freelancer, worked on more than 20 Responsive webpages using HTML, CSS, Bootstrap-5 ,& JavaScript.
-design is my forte. 
-looking forward to connecting with new enthusiastic talent in the domain.do drop a msg on linkedin to connect.
+I have recently begun my coding journey. <br>
+specialised in Data Structures and Algorithms in Java.<br>
+currently a full time freelancer, worked on more than 20 Responsive webpages using HTML, CSS, Bootstrap-5 ,& JavaScript.<br>
+design is my forte. <br>
+looking forward to connecting with new enthusiastic talent in the domain.do drop a msg on linkedin to connect.<br>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/k-Koushal/count.svg)
