@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Koushal-green)](https://k-koushal.github.io/personal.webpage/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Koushal-yellow)](https://stackoverflow.com/users/18280020/koushal-kandagatla/)
 
-I'm Koushal Kandagatla
+I'm Koushal Kandagatla.
 I have recently begun my coding journey. <br>
 specialised in Data Structures and Algorithms in Java.<br>
 currently a full time freelancer, worked on more than 20 Responsive webpages using HTML, CSS, Bootstrap-5 ,& JavaScript.<br>
