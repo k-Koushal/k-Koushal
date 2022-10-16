@@ -10,7 +10,7 @@ I have recently begun my coding journey. <br>
 specialised in Data Structures and Algorithms in Java.<br>
 currently a full time freelancer, worked on more than 20 Responsive webpages using HTML, CSS, Bootstrap-5 ,& JavaScript.<br>
 design is my forte. <br>
-looking forward to connecting with new enthusiastic talent in the domain.do drop a msg on linkedin to connect.<br>
+looking forward to connecting with new enthusiastic talent in the domain.<br>do drop a msg on linkedin to connect.<br>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/k-Koushal/count.svg)
